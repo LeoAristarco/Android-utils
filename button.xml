@@ -1,0 +1,5 @@
+    <style name="SpecialSituationsButton" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">#2F65CA</item>
+        <item name="colorControlHighlight">#FFDFDFEC</item>
+        <item name="android:textColor">#484692</item>
+    </style>
